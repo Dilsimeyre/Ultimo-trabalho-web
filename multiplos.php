@@ -4,7 +4,7 @@
     <title>Múltiplos de Números</title>
 </head>
 <body>
-    <h1>Números Múltiplos de 3, 5 e 3 e 5</h1>
+    <h1>Números Múltiplos de 3 e 5</h1>
     <?php
     for ($i = 1; $i <= 100; $i++) {
         if ($i % 3 == 0 && $i % 5 == 0) {
